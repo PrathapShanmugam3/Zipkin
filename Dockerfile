@@ -1,2 +1,2 @@
 FROM openzipkin/zipkin
-EXPOSE 9411
+EXPOSE 10000
